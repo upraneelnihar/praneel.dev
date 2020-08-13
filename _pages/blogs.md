@@ -2,9 +2,10 @@
 layout: archive
 classes: wide
 permalink: /blogs/
-title: "Recent Posts"
+title: "All Blog Posts"
 author_profile: true
 ---
+
 <div id="retainable-rss-embed" 
     data-rss="https://medium.com/feed/@u.praneel.nihar"
     data-maxcols="2" 
