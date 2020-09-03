@@ -1,7 +1,7 @@
 ---
 layout: archive
 classes: wide
-permalink: /blogs/
+permalink: /posts/
 title: "All Blog Posts"
 author_profile: true
 ---
@@ -11,7 +11,7 @@ author_profile: true
     data-maxcols="2" 
     data-layout="grid" 
     data-poststyle="inline" 
-    data-readmore="Read the rest" 
+    data-readmore="Read More" 
     data-buttonclass="btn btn-primary" 
     data-offset="-200">&#160;
  </div>
