@@ -21,7 +21,7 @@
 title                    : "Home"
 title_separator          : "-"
 name                     : "U Praneel Nihar"
-description              : "Data Scientist"
+description              : "Data Scientist at Gramener"
 
 # Analytics
 analytics:
@@ -35,7 +35,7 @@ analytics:
 author:
   name             : "U Praneel Nihar"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "Data Scientist"
+  bio              : "Data Scientist at Gramener"
   location         : "Hyderabad"
   email            :
   links:
